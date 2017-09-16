@@ -1,2 +1,3 @@
 # hello-world
-first repository in Github
+Second repository in Github
+hi, this is a new branch that different from master.
